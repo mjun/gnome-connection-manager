@@ -1,0 +1,57 @@
+#!/usr/bin/expect
+
+log_user 0
+stty -echo
+
+fconfigure stdin -blocking 1
+gets stdin pass
+fconfigure stdin -blocking 0
+
+
+#capturar redimension de tamaño de pantalla y pasarlo al proceso ssh hijo
+trap { 
+ set rows [stty rows]
+ set cols [stty columns]
+ stty rows $rows columns $cols < $spawn_out(slave,name)
+} WINCH
+
+
+set connection [ lindex $argv 0 ]
+
+set i 0
+foreach {arg} $argv { 
+   set i [ expr $i+1 ]; 
+   if {$arg=="-l"} {
+      set user [ lindex $argv $i ]
+   }
+}
+
+if { $connection == "telnet" } {
+    set timeout 20
+    set cmd "/usr/bin/telnet"
+    set reg "assword:"
+} else {
+    set timeout -1
+    set cmd "/usr/bin/ssh"
+    set reg "assword:"
+}
+
+
+eval spawn $cmd [ lrange $argv 1 [expr {$argc - 1}] ]   
+
+expect {
+          -re "login:|sername:" { send "$user\r"; exp_continue; }
+          $reg { send "$pass\r"; exec kill -WINCH [ pid ]; interact; }
+          "Are you sure you want to continue connecting (yes/no)?" { send "yes\r"; exp_continue; }	 
+          "Host key verification failed." { puts $expect_out(buffer);  exit; }
+          timeout { interact; }          
+       }
+
+log_user 1
+
+set ret [exp_wait]
+set status [lindex $ret 3]
+exit $status
+
+
+

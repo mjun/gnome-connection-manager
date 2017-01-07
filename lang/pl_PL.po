@@ -1,0 +1,1313 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-05 14:39+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../gnome_connection_manager.py:224 ../gnome_connection_manager.py:331
+#: ../gnome_connection_manager.py:340 ../gnome_connection_manager.py:406
+#: ../gnome_connection_manager.py:472 ../gnome_connection_manager.py:521
+#: ../gnome_connection_manager.py:654 ../gnome_connection_manager.py:672
+#: ../gnome_connection_manager.py:725 ../gnome_connection_manager.py:756
+#: ../gnome-connection-manager.glade:155
+msgid "Copiar"
+msgstr "Kopiuj"
+
+#: ../gnome_connection_manager.py:230 ../gnome_connection_manager.py:337
+#: ../gnome_connection_manager.py:346 ../gnome_connection_manager.py:412
+#: ../gnome_connection_manager.py:478 ../gnome_connection_manager.py:527
+#: ../gnome_connection_manager.py:660 ../gnome_connection_manager.py:678
+#: ../gnome_connection_manager.py:731 ../gnome_connection_manager.py:762
+#: ../gnome-connection-manager.glade:174
+msgid "Pegar"
+msgstr "Wklej"
+
+#: ../gnome_connection_manager.py:236 ../gnome_connection_manager.py:343
+#: ../gnome_connection_manager.py:352 ../gnome_connection_manager.py:418
+#: ../gnome_connection_manager.py:484 ../gnome_connection_manager.py:533
+#: ../gnome-connection-manager.glade:3122 ../gnome_connection_manager.py:672
+#: ../gnome-connection-manager.glade:3332 ../gnome_connection_manager.py:690
+#: ../gnome-connection-manager.glade:3451 ../gnome_connection_manager.py:743
+#: ../gnome-connection-manager.glade:3762 ../gnome_connection_manager.py:774
+#: ../gnome-connection-manager.glade:212
+#: ../gnome-connection-manager.glade:3901
+msgid "Seleccionar todo"
+msgstr "Zaznacz wszystko"
+
+#: ../gnome_connection_manager.py:349 ../gnome_connection_manager.py:358
+#: ../gnome_connection_manager.py:424 ../gnome_connection_manager.py:490
+#: ../gnome_connection_manager.py:539 ../gnome_connection_manager.py:678
+#: ../gnome_connection_manager.py:696 ../gnome_connection_manager.py:749
+#: ../gnome_connection_manager.py:786
+msgid "Guardar buffer en archivo"
+msgstr "Zapisz buffor do pliku"
+
+#: ../gnome_connection_manager.py:246 ../gnome_connection_manager.py:359
+#: ../gnome_connection_manager.py:1635 ../gnome_connection_manager.py:368
+#: ../gnome_connection_manager.py:1647 ../gnome_connection_manager.py:434
+#: ../gnome_connection_manager.py:1838 ../gnome_connection_manager.py:512
+#: ../gnome_connection_manager.py:2025 ../gnome_connection_manager.py:561
+#: ../gnome_connection_manager.py:2270 ../gnome_connection_manager.py:2271
+#: ../gnome_connection_manager.py:711 ../gnome_connection_manager.py:2553
+#: ../gnome_connection_manager.py:729 ../gnome_connection_manager.py:2668
+#: ../gnome_connection_manager.py:782 ../gnome_connection_manager.py:2405
+#: ../gnome_connection_manager.py:2797 ../gnome_connection_manager.py:819
+#: ../gnome_connection_manager.py:2575 ../gnome_connection_manager.py:2969
+msgid "Cerrar consola"
+msgstr "Zamknij konsole"
+
+#: ../gnome_connection_manager.py:368 ../gnome-connection-manager.glade.h:16
+#: ../gnome-connection-manager.glade:314 ../gnome_connection_manager.py:377
+#: ../gnome_connection_manager.py:443 ../gnome_connection_manager.py:521
+#: ../gnome_connection_manager.py:583 ../gnome_connection_manager.py:733
+#: ../gnome-connection-manager.glade:326 ../gnome_connection_manager.py:751
+#: ../gnome_connection_manager.py:804 ../gnome-connection-manager.glade:361
+#: ../gnome_connection_manager.py:841 ../gnome-connection-manager.glade:500
+msgid "Conectar"
+msgstr "Połącz"
+
+#: ../gnome_connection_manager.py:374 ../gnome_connection_manager.py:383
+#: ../gnome_connection_manager.py:455 ../gnome_connection_manager.py:533
+#: ../gnome_connection_manager.py:595 ../gnome_connection_manager.py:745
+#: ../gnome_connection_manager.py:763 ../gnome_connection_manager.py:816
+#: ../gnome_connection_manager.py:853
+msgid "Agregar Host"
+msgstr "Dodaj"
+
+#: ../gnome_connection_manager.py:380 ../gnome-connection-manager.glade.h:19
+#: ../gnome-connection-manager.glade:492 ../gnome_connection_manager.py:389
+#: ../gnome_connection_manager.py:461 ../gnome_connection_manager.py:539
+#: ../gnome_connection_manager.py:601 ../gnome_connection_manager.py:751
+#: ../gnome-connection-manager.glade:504 ../gnome_connection_manager.py:769
+#: ../gnome_connection_manager.py:822 ../gnome-connection-manager.glade:539
+#: ../gnome_connection_manager.py:859 ../gnome-connection-manager.glade:678
+msgid "Editar"
+msgstr "Edytuj"
+
+#: ../gnome_connection_manager.py:386 ../gnome-connection-manager.glade.h:22
+#: ../gnome-connection-manager.glade:581
+#: ../gnome-connection-manager.glade:1859 ../gnome_connection_manager.py:395
+#: ../gnome_connection_manager.py:467 ../gnome-connection-manager.glade:1905
+#: ../gnome_connection_manager.py:545 ../gnome-connection-manager.glade:1956
+#: ../gnome_connection_manager.py:607 ../gnome-connection-manager.glade:2058
+#: ../gnome_connection_manager.py:757 ../gnome-connection-manager.glade:593
+#: ../gnome-connection-manager.glade:2268 ../gnome_connection_manager.py:775
+#: ../gnome-connection-manager.glade:2341 ../gnome_connection_manager.py:828
+#: ../gnome-connection-manager.glade:628
+#: ../gnome-connection-manager.glade:2475 ../gnome_connection_manager.py:865
+#: ../gnome-connection-manager.glade:767
+#: ../gnome-connection-manager.glade:2614
+msgid "Eliminar"
+msgstr "Usuń"
+
+#: ../gnome_connection_manager.py:396 ../gnome_connection_manager.py:405
+#: ../gnome_connection_manager.py:477 ../gnome_connection_manager.py:555
+#: ../gnome_connection_manager.py:623 ../gnome_connection_manager.py:773
+#: ../gnome_connection_manager.py:791 ../gnome_connection_manager.py:844
+#: ../gnome_connection_manager.py:881
+msgid "Expandir todo"
+msgstr "Rozwiń"
+
+#: ../gnome_connection_manager.py:401 ../gnome_connection_manager.py:410
+#: ../gnome_connection_manager.py:482 ../gnome_connection_manager.py:560
+#: ../gnome_connection_manager.py:628 ../gnome_connection_manager.py:778
+#: ../gnome_connection_manager.py:796 ../gnome_connection_manager.py:849
+#: ../gnome_connection_manager.py:886
+msgid "Contraer todo"
+msgstr "Zwiń"
+
+#: ../gnome_connection_manager.py:321 ../gnome_connection_manager.py:474
+#: ../gnome_connection_manager.py:483 ../gnome_connection_manager.py:572
+#: ../gnome_connection_manager.py:678 ../gnome_connection_manager.py:764
+#: ../gnome_connection_manager.py:985 ../gnome_connection_manager.py:1017
+#: ../gnome_connection_manager.py:1085 ../gnome_connection_manager.py:1179
+msgid "Error al conectar con servidor"
+msgstr "Błąd połączenia z serwerem"
+
+#: ../gnome_connection_manager.py:335 ../gnome_connection_manager.py:491
+#: ../gnome_connection_manager.py:500 ../gnome_connection_manager.py:589
+#: ../gnome_connection_manager.py:692 ../gnome_connection_manager.py:778
+#: ../gnome_connection_manager.py:999 ../gnome_connection_manager.py:1031
+#: ../gnome_connection_manager.py:1099
+msgid "Servidores"
+msgstr "Serwery"
+
+#: ../gnome_connection_manager.py:359 ../gnome_connection_manager.py:387
+#: ../gnome_connection_manager.py:517 ../gnome_connection_manager.py:587
+#: ../gnome_connection_manager.py:527 ../gnome_connection_manager.py:597
+#: ../gnome_connection_manager.py:616 ../gnome_connection_manager.py:714
+#: ../gnome_connection_manager.py:723 ../gnome_connection_manager.py:837
+#: ../gnome_connection_manager.py:810 ../gnome_connection_manager.py:924
+#: ../gnome_connection_manager.py:1032 ../gnome_connection_manager.py:1117
+#: ../gnome_connection_manager.py:1075 ../gnome_connection_manager.py:1160
+#: ../gnome_connection_manager.py:1147 ../gnome_connection_manager.py:1232
+#: ../gnome_connection_manager.py:1259 ../gnome_connection_manager.py:1353
+msgid "Entrada invalida en archivo de configuracion"
+msgstr "Błędny wpis w pliku konfiguracyjnym"
+
+#: ../gnome_connection_manager.py:768 ../gnome_connection_manager.py:795
+#: ../gnome_connection_manager.py:779 ../gnome_connection_manager.py:806
+#: ../gnome_connection_manager.py:899 ../gnome_connection_manager.py:926
+#: ../gnome_connection_manager.py:1027 ../gnome_connection_manager.py:1054
+#: ../gnome_connection_manager.py:1115 ../gnome_connection_manager.py:1142
+#: ../gnome_connection_manager.py:1320 ../gnome_connection_manager.py:1414
+#: ../gnome_connection_manager.py:1364 ../gnome_connection_manager.py:1458
+#: ../gnome_connection_manager.py:1441 ../gnome_connection_manager.py:1549
+#: ../gnome_connection_manager.py:1606 ../gnome_connection_manager.py:1718
+msgid "Guardar como"
+msgstr "Zapisz jako"
+
+#: ../gnome_connection_manager.py:788 ../gnome_connection_manager.py:799
+#: ../gnome_connection_manager.py:919 ../gnome_connection_manager.py:1047
+#: ../gnome_connection_manager.py:1135 ../gnome_connection_manager.py:1340
+#: ../gnome_connection_manager.py:1384 ../gnome_connection_manager.py:1461
+#: ../gnome_connection_manager.py:1626
+msgid "No se puede abrir archivo para escritura"
+msgstr "Nie można otworzyć pliku do zapisu"
+
+#: ../gnome_connection_manager.py:795 ../gnome_connection_manager.py:806
+#: ../gnome_connection_manager.py:926 ../gnome_connection_manager.py:1054
+#: ../gnome_connection_manager.py:1142 ../gnome_connection_manager.py:1372
+#: ../gnome_connection_manager.py:2127 ../gnome_connection_manager.py:1416
+#: ../gnome_connection_manager.py:2228 ../gnome_connection_manager.py:1507
+#: ../gnome_connection_manager.py:2346 ../gnome_connection_manager.py:1676
+#: ../gnome_connection_manager.py:2515
+msgid "Abrir"
+msgstr "Otwórz"
+
+#: ../gnome_connection_manager.py:530 ../gnome_connection_manager.py:820
+#: ../gnome_connection_manager.py:831 ../gnome_connection_manager.py:951
+#: ../gnome_connection_manager.py:1080 ../gnome_connection_manager.py:1168
+#: ../gnome_connection_manager.py:1356 ../gnome_connection_manager.py:1400
+#: ../gnome_connection_manager.py:1491 ../gnome_connection_manager.py:1660
+msgid "Hay"
+msgstr "Masz"
+
+#: ../gnome_connection_manager.py:530 ../gnome_connection_manager.py:820
+#: ../gnome_connection_manager.py:831 ../gnome_connection_manager.py:951
+#: ../gnome_connection_manager.py:1080 ../gnome_connection_manager.py:1168
+#: ../gnome_connection_manager.py:1356 ../gnome_connection_manager.py:1400
+#: ../gnome_connection_manager.py:1491 ../gnome_connection_manager.py:1660
+msgid "consolas abiertas, confirma que desea salir?"
+msgstr "otwarte konsole, wyjść mimo to?"
+
+#: ../gnome_connection_manager.py:838 ../gnome_connection_manager.py:849
+#: ../gnome_connection_manager.py:969 ../gnome_connection_manager.py:1098
+#: ../gnome_connection_manager.py:1186 ../gnome_connection_manager.py:1374
+#: ../gnome_connection_manager.py:1418 ../gnome_connection_manager.py:1509
+#: ../gnome_connection_manager.py:1678
+msgid "Importar Servidores"
+msgstr "Importuj konfiguracje"
+
+#: ../gnome_connection_manager.py:838 ../gnome_connection_manager.py:880
+#: ../gnome_connection_manager.py:849 ../gnome_connection_manager.py:891
+#: ../gnome_connection_manager.py:969 ../gnome_connection_manager.py:1011
+#: ../gnome_connection_manager.py:1098 ../gnome_connection_manager.py:1144
+#: ../gnome_connection_manager.py:1186 ../gnome_connection_manager.py:1232
+#: ../gnome_connection_manager.py:1374 ../gnome_connection_manager.py:1416
+#: ../gnome_connection_manager.py:1418 ../gnome_connection_manager.py:1460
+#: ../gnome_connection_manager.py:1509 ../gnome_connection_manager.py:1551
+#: ../gnome_connection_manager.py:1678 ../gnome_connection_manager.py:1720
+msgid "Ingrese clave: "
+msgstr "Wpisz hasło"
+
+#: ../gnome_connection_manager.py:851 ../gnome_connection_manager.py:862
+#: ../gnome_connection_manager.py:982 ../gnome_connection_manager.py:1111
+#: ../gnome_connection_manager.py:1199 ../gnome_connection_manager.py:1386
+#: ../gnome_connection_manager.py:1430 ../gnome_connection_manager.py:1521
+#: ../gnome_connection_manager.py:1690
+msgid "Clave invalida"
+msgstr "Błędne hasło"
+
+#: ../gnome_connection_manager.py:854 ../gnome_connection_manager.py:865
+#: ../gnome_connection_manager.py:985 ../gnome_connection_manager.py:1114
+#: ../gnome_connection_manager.py:1202 ../gnome_connection_manager.py:1389
+#: ../gnome_connection_manager.py:1433 ../gnome_connection_manager.py:1524
+#: ../gnome_connection_manager.py:1693
+msgid "Se sobreescribirá la lista de servidores, continuar?"
+msgstr "Lista serwerów zostanie nadpisana, kontynuować?"
+
+#: ../gnome_connection_manager.py:867 ../gnome_connection_manager.py:910
+#: ../gnome_connection_manager.py:878 ../gnome_connection_manager.py:921
+#: ../gnome_connection_manager.py:998 ../gnome_connection_manager.py:1044
+#: ../gnome_connection_manager.py:1131 ../gnome_connection_manager.py:1178
+#: ../gnome_connection_manager.py:1219 ../gnome_connection_manager.py:1266
+#: ../gnome_connection_manager.py:1403 ../gnome_connection_manager.py:1438
+#: ../gnome_connection_manager.py:1447 ../gnome_connection_manager.py:1482
+#: ../gnome_connection_manager.py:1538 ../gnome_connection_manager.py:1573
+#: ../gnome_connection_manager.py:1707 ../gnome_connection_manager.py:1742
+msgid "Archivo invalido"
+msgstr "Błędny plik"
+
+#: ../gnome_connection_manager.py:880 ../gnome_connection_manager.py:891
+#: ../gnome_connection_manager.py:1011 ../gnome_connection_manager.py:1144
+#: ../gnome_connection_manager.py:1232 ../gnome_connection_manager.py:1416
+#: ../gnome_connection_manager.py:1460 ../gnome_connection_manager.py:1551
+#: ../gnome_connection_manager.py:1720
+msgid "Exportar Servidores"
+msgstr "Eksportuj konfigurację"
+
+#: ../gnome_connection_manager.py:598 ../gnome_connection_manager.py:987
+#: ../gnome_connection_manager.py:998 ../gnome_connection_manager.py:1124
+#: ../gnome_connection_manager.py:1261 ../gnome_connection_manager.py:1349
+#: ../gnome_connection_manager.py:1527 ../gnome_connection_manager.py:1576
+#: ../gnome_connection_manager.py:1677 ../gnome_connection_manager.py:1846
+msgid "Confirma que desea eliminar el host"
+msgstr "Napewno chcesz usunąć hosta"
+
+#: ../gnome_connection_manager.py:608 ../gnome_connection_manager.py:997
+#: ../gnome_connection_manager.py:1008 ../gnome_connection_manager.py:1134
+#: ../gnome_connection_manager.py:1271 ../gnome_connection_manager.py:1359
+#: ../gnome_connection_manager.py:1534 ../gnome_connection_manager.py:1583
+#: ../gnome_connection_manager.py:1684 ../gnome_connection_manager.py:1853
+msgid "Confirma que desea eliminar todos los hosts del grupo"
+msgstr "Napewno chcesz usunąć wszystkie hosty z grupy"
+
+#: ../gnome_connection_manager.py:1056 ../gnome_connection_manager.py:1065
+#: ../gnome-connection-manager.glade.h:53
+#: ../gnome-connection-manager.glade:817 ../gnome_connection_manager.py:1067
+#: ../gnome_connection_manager.py:1076 ../gnome_connection_manager.py:1193
+#: ../gnome_connection_manager.py:1202 ../gnome_connection_manager.py:1330
+#: ../gnome_connection_manager.py:1339 ../gnome_connection_manager.py:1418
+#: ../gnome_connection_manager.py:1427 ../gnome_connection_manager.py:1599
+#: ../gnome_connection_manager.py:1608 ../gnome-connection-manager.glade:829
+#: ../gnome_connection_manager.py:1648 ../gnome_connection_manager.py:1657
+#: ../gnome_connection_manager.py:1749 ../gnome_connection_manager.py:1758
+#: ../gnome-connection-manager.glade:864 ../gnome_connection_manager.py:1918
+#: ../gnome_connection_manager.py:1927 ../gnome-connection-manager.glade:1003
+msgid "buscar..."
+msgstr "szukaj..."
+
+#: ../gnome_connection_manager.py:700 ../gnome_connection_manager.py:1138
+#: ../gnome-connection-manager.glade:224 ../gnome_connection_manager.py:1149
+#: ../gnome_connection_manager.py:1281 ../gnome_connection_manager.py:1420
+#: ../gnome_connection_manager.py:1551 ../gnome_connection_manager.py:1824
+#: ../gnome-connection-manager.glade:236 ../gnome_connection_manager.py:1891
+#: ../gnome_connection_manager.py:1974 ../gnome-connection-manager.glade:271
+#: ../gnome_connection_manager.py:2143 ../gnome-connection-manager.glade:410
+msgid "Local"
+msgstr "Lokalny"
+
+#: ../gnome_connection_manager.py:702 ../gnome-connection-manager.glade.h:23
+#: ../gnome_connection_manager.py:1140 ../gnome-connection-manager.glade:1206
+#: ../gnome_connection_manager.py:1151 ../gnome_connection_manager.py:1283
+#: ../gnome_connection_manager.py:1422 ../gnome_connection_manager.py:1553
+#: ../gnome-connection-manager.glade:1308 ../gnome_connection_manager.py:2151
+#: ../gnome_connection_manager.py:1826 ../gnome_connection_manager.py:2435
+#: ../gnome-connection-manager.glade:1320 ../gnome_connection_manager.py:1893
+#: ../gnome_connection_manager.py:2536 ../gnome-connection-manager.glade:1408
+#: ../gnome_connection_manager.py:1976 ../gnome_connection_manager.py:2667
+#: ../gnome-connection-manager.glade:1443 ../gnome_connection_manager.py:2145
+#: ../gnome_connection_manager.py:2838 ../gnome-connection-manager.glade:1582
+msgid "Host"
+msgstr "Host"
+
+#: ../gnome_connection_manager.py:704 ../gnome_connection_manager.py:1142
+#: ../gnome_connection_manager.py:1153 ../gnome_connection_manager.py:1285
+#: ../gnome_connection_manager.py:1424 ../gnome_connection_manager.py:1555
+#: ../gnome_connection_manager.py:1828 ../gnome_connection_manager.py:1895
+#: ../gnome_connection_manager.py:1978 ../gnome_connection_manager.py:2147
+msgid "Remoto"
+msgstr "Zdalny"
+
+#: ../gnome-connection-manager.glade.h:34 ../gnome-connection-manager.glade:72
+msgid "Importar lista de servidores desde un archivo"
+msgstr "Importuj konfigurację z pliku"
+
+#: ../gnome_connection_manager.py:791 ../gnome_connection_manager.py:1242
+#: ../gnome_connection_manager.py:1253 ../gnome_connection_manager.py:1421
+#: ../gnome_connection_manager.py:1564 ../gnome_connection_manager.py:1695
+#: ../gnome_connection_manager.py:1969 ../gnome_connection_manager.py:2062
+#: ../gnome_connection_manager.py:2168 ../gnome_connection_manager.py:2337
+msgid "Los campos grupo, nombre y host son obligatorios"
+msgstr "Pole grupy, nazwa oraz host są wymagane"
+
+#: ../gnome_connection_manager.py:795 ../gnome_connection_manager.py:1246
+#: ../gnome_connection_manager.py:1257 ../gnome_connection_manager.py:1425
+#: ../gnome_connection_manager.py:1568 ../gnome_connection_manager.py:1699
+#: ../gnome_connection_manager.py:1973 ../gnome_connection_manager.py:2066
+#: ../gnome_connection_manager.py:2172 ../gnome_connection_manager.py:2341
+msgid "Puerto invalido"
+msgstr "Błędny port"
+
+#: ../gnome_connection_manager.py:806 ../gnome_connection_manager.py:817
+#: ../gnome_connection_manager.py:827 ../gnome_connection_manager.py:1257
+#: ../gnome_connection_manager.py:1268 ../gnome_connection_manager.py:1278
+#: ../gnome_connection_manager.py:1279 ../gnome_connection_manager.py:1289
+#: ../gnome_connection_manager.py:1436 ../gnome_connection_manager.py:1447
+#: ../gnome_connection_manager.py:1457 ../gnome_connection_manager.py:1579
+#: ../gnome_connection_manager.py:1591 ../gnome_connection_manager.py:1601
+#: ../gnome_connection_manager.py:1710 ../gnome_connection_manager.py:1722
+#: ../gnome_connection_manager.py:1732 ../gnome_connection_manager.py:1986
+#: ../gnome_connection_manager.py:1998 ../gnome_connection_manager.py:2009
+#: ../gnome_connection_manager.py:2079 ../gnome_connection_manager.py:2091
+#: ../gnome_connection_manager.py:2102 ../gnome_connection_manager.py:2185
+#: ../gnome_connection_manager.py:2197 ../gnome_connection_manager.py:2208
+#: ../gnome_connection_manager.py:2354 ../gnome_connection_manager.py:2366
+#: ../gnome_connection_manager.py:2377
+msgid "El nombre"
+msgstr "Nazwa Hosta"
+
+#: ../gnome_connection_manager.py:806 ../gnome_connection_manager.py:817
+#: ../gnome_connection_manager.py:827 ../gnome_connection_manager.py:1257
+#: ../gnome_connection_manager.py:1268 ../gnome_connection_manager.py:1278
+#: ../gnome_connection_manager.py:1279 ../gnome_connection_manager.py:1289
+#: ../gnome_connection_manager.py:1436 ../gnome_connection_manager.py:1447
+#: ../gnome_connection_manager.py:1457 ../gnome_connection_manager.py:1579
+#: ../gnome_connection_manager.py:1591 ../gnome_connection_manager.py:1601
+#: ../gnome_connection_manager.py:1710 ../gnome_connection_manager.py:1722
+#: ../gnome_connection_manager.py:1732 ../gnome_connection_manager.py:1986
+#: ../gnome_connection_manager.py:1998 ../gnome_connection_manager.py:2009
+#: ../gnome_connection_manager.py:2079 ../gnome_connection_manager.py:2091
+#: ../gnome_connection_manager.py:2102 ../gnome_connection_manager.py:2185
+#: ../gnome_connection_manager.py:2197 ../gnome_connection_manager.py:2208
+#: ../gnome_connection_manager.py:2354 ../gnome_connection_manager.py:2366
+#: ../gnome_connection_manager.py:2377
+msgid "ya existe para el grupo"
+msgstr "już istnieje dla grupy"
+
+#: ../gnome_connection_manager.py:851 ../gnome_connection_manager.py:1304
+#: ../gnome_connection_manager.py:1315 ../gnome_connection_manager.py:1489
+#: ../gnome_connection_manager.py:1635 ../gnome_connection_manager.py:1766
+#: ../gnome_connection_manager.py:2023 ../gnome_connection_manager.py:2116
+#: ../gnome_connection_manager.py:2222 ../gnome_connection_manager.py:2391
+msgid "Error al guardar el host. Descripcion"
+msgstr "Błąd zapisu hosta. Opis"
+
+#: ../gnome_connection_manager.py:879 ../gnome_connection_manager.py:1332
+#: ../gnome_connection_manager.py:1343 ../gnome_connection_manager.py:1526
+#: ../gnome_connection_manager.py:1679 ../gnome_connection_manager.py:1810
+#: ../gnome_connection_manager.py:2085 ../gnome_connection_manager.py:2187
+#: ../gnome_connection_manager.py:2305 ../gnome_connection_manager.py:2474
+msgid "Debe ingresar host remoto"
+msgstr "Wpisz zdalnego hosta"
+
+#: ../gnome_connection_manager.py:884 ../gnome_connection_manager.py:1337
+#: ../gnome_connection_manager.py:1348 ../gnome_connection_manager.py:1531
+#: ../gnome_connection_manager.py:1684 ../gnome_connection_manager.py:1815
+#: ../gnome_connection_manager.py:2090 ../gnome_connection_manager.py:2192
+#: ../gnome_connection_manager.py:2310 ../gnome_connection_manager.py:2479
+msgid "Puerto local ya fue asignado"
+msgstr "Port lokalny jest już przypisany"
+
+#: ../gnome_connection_manager.py:940 ../gnome_connection_manager.py:1401
+#: ../gnome_connection_manager.py:1412 ../gnome_connection_manager.py:1611
+#: ../gnome_connection_manager.py:1766 ../gnome_connection_manager.py:1897
+#: ../gnome_connection_manager.py:2179 ../gnome_connection_manager.py:2280
+#: ../gnome_connection_manager.py:2398 ../gnome_connection_manager.py:2567
+msgid "Separador de Palabras"
+msgstr "Separator słowa"
+
+#: ../gnome_connection_manager.py:941 ../gnome_connection_manager.py:1402
+#: ../gnome_connection_manager.py:1413 ../gnome_connection_manager.py:1612
+#: ../gnome_connection_manager.py:1767 ../gnome_connection_manager.py:1898
+#: ../gnome_connection_manager.py:2180 ../gnome_connection_manager.py:2281
+#: ../gnome_connection_manager.py:2399 ../gnome_connection_manager.py:2568
+msgid "Tamaño del buffer"
+msgstr "Rozmiar buffora"
+
+#: ../gnome_connection_manager.py:942 ../gnome_connection_manager.py:1403
+#: ../gnome_connection_manager.py:1414 ../gnome_connection_manager.py:1613
+#: ../gnome_connection_manager.py:1768 ../gnome_connection_manager.py:1899
+#: ../gnome_connection_manager.py:2181 ../gnome_connection_manager.py:2282
+#: ../gnome_connection_manager.py:2400 ../gnome_connection_manager.py:2569
+msgid "Transparencia"
+msgstr "Przeźroczystość"
+
+#: ../gnome_connection_manager.py:943 ../gnome_connection_manager.py:1404
+#: ../gnome_connection_manager.py:1415 ../gnome_connection_manager.py:1614
+#: ../gnome_connection_manager.py:1769 ../gnome_connection_manager.py:1900
+#: ../gnome_connection_manager.py:2183 ../gnome_connection_manager.py:2284
+#: ../gnome_connection_manager.py:2402 ../gnome_connection_manager.py:2572
+msgid "Pegar con botón derecho"
+msgstr "Wklej prawym przyciskiem myszy"
+
+#: ../gnome_connection_manager.py:944 ../gnome_connection_manager.py:1405
+#: ../gnome_connection_manager.py:1416 ../gnome_connection_manager.py:1615
+#: ../gnome_connection_manager.py:1770 ../gnome_connection_manager.py:1902
+#: ../gnome_connection_manager.py:2185 ../gnome_connection_manager.py:2286
+#: ../gnome_connection_manager.py:2404 ../gnome_connection_manager.py:2574
+msgid "Confirmar al cerrar una consola"
+msgstr "Potwierdź przy zamykaniu konsoli"
+
+#: ../gnome_connection_manager.py:945 ../gnome_connection_manager.py:1406
+#: ../gnome_connection_manager.py:1417 ../gnome_connection_manager.py:1616
+#: ../gnome_connection_manager.py:1771 ../gnome_connection_manager.py:1903
+#: ../gnome_connection_manager.py:2186 ../gnome_connection_manager.py:2287
+#: ../gnome_connection_manager.py:2406 ../gnome_connection_manager.py:2576
+msgid "Confirmar al salir"
+msgstr "Potwierdź przy wyjśćiu"
+
+#: ../gnome_connection_manager.py:1431 ../gnome_connection_manager.py:1443
+#: ../gnome_connection_manager.py:1642 ../gnome_connection_manager.py:1807
+#: ../gnome_connection_manager.py:1939 ../gnome_connection_manager.py:2222
+#: ../gnome_connection_manager.py:2323 ../gnome_connection_manager.py:2440
+#: ../gnome_connection_manager.py:2610
+msgid "Acción"
+msgstr "Akcja"
+
+#: ../gnome_connection_manager.py:1439 ../gnome_connection_manager.py:1457
+#: ../gnome_connection_manager.py:1451 ../gnome_connection_manager.py:1469
+#: ../gnome_connection_manager.py:1651 ../gnome_connection_manager.py:1669
+#: ../gnome_connection_manager.py:1816 ../gnome_connection_manager.py:1834
+#: ../gnome_connection_manager.py:1948 ../gnome_connection_manager.py:1966
+#: ../gnome_connection_manager.py:2231 ../gnome_connection_manager.py:2249
+#: ../gnome_connection_manager.py:2332 ../gnome_connection_manager.py:2350
+#: ../gnome_connection_manager.py:2449 ../gnome_connection_manager.py:2467
+#: ../gnome_connection_manager.py:2619 ../gnome_connection_manager.py:2637
+msgid "Atajo"
+msgstr "Skrót"
+
+#: ../gnome_connection_manager.py:1449 ../gnome_connection_manager.py:1461
+#: ../gnome_connection_manager.py:1661 ../gnome_connection_manager.py:1826
+#: ../gnome_connection_manager.py:1958 ../gnome_connection_manager.py:2241
+#: ../gnome_connection_manager.py:2342 ../gnome_connection_manager.py:2459
+#: ../gnome_connection_manager.py:2629
+msgid "Comando"
+msgstr "Polecenie"
+
+#: ../gnome_connection_manager.py:1052 ../gnome_connection_manager.py:1586
+#: ../gnome_connection_manager.py:1598 ../gnome_connection_manager.py:1551
+#: ../gnome_connection_manager.py:1784 ../gnome_connection_manager.py:1704
+#: ../gnome_connection_manager.py:1960 ../gnome_connection_manager.py:1835
+#: ../gnome_connection_manager.py:2095 ../gnome_connection_manager.py:2110
+#: ../gnome_connection_manager.py:2379 ../gnome_connection_manager.py:2211
+#: ../gnome_connection_manager.py:2480 ../gnome-connection-manager.glade:2758
+#: ../gnome-connection-manager.glade:3238
+#: ../gnome-connection-manager.glade:2897
+#: ../gnome-connection-manager.glade:3377
+msgid "Seleccione el color de fondo"
+msgstr "Zaznacz kolor tła"
+
+#: ../gnome_connection_manager.py:1057 ../gnome_connection_manager.py:1591
+#: ../gnome_connection_manager.py:1603 ../gnome_connection_manager.py:1562
+#: ../gnome_connection_manager.py:1789 ../gnome_connection_manager.py:1715
+#: ../gnome_connection_manager.py:1965 ../gnome_connection_manager.py:1846
+#: ../gnome_connection_manager.py:2100 ../gnome_connection_manager.py:2121
+#: ../gnome_connection_manager.py:2384 ../gnome_connection_manager.py:2222
+#: ../gnome_connection_manager.py:2485 ../gnome-connection-manager.glade:2817
+#: ../gnome-connection-manager.glade:3258
+#: ../gnome-connection-manager.glade:2956
+#: ../gnome-connection-manager.glade:3397
+msgid "Seleccione el color del texto"
+msgstr "Zaznacz kolo textu"
+
+#. -- main }
+#: ../gnome-connection-manager.glade.h:4 ../gnome-connection-manager.glade:144
+#: ../gnome-connection-manager.glade:156 ../gnome-connection-manager.glade:189
+#: ../gnome-connection-manager.glade:328
+msgid "A_cerca de"
+msgstr "_O programie"
+
+#: ../gnome-connection-manager.glade.h:5 ../gnome-connection-manager.glade:180
+#: ../gnome-connection-manager.glade:192 ../gnome-connection-manager.glade:227
+#: ../gnome-connection-manager.glade:366
+msgid "Abrir consola local"
+msgstr "Otwórz lokalną konsole"
+
+#: ../gnome-connection-manager.glade.h:5 ../gnome-connection-manager.glade:403
+#: ../gnome-connection-manager.glade:1780
+#: ../gnome-connection-manager.glade:1826
+#: ../gnome-connection-manager.glade:1877
+#: ../gnome-connection-manager.glade:1979
+#: ../gnome-connection-manager.glade:415
+#: ../gnome-connection-manager.glade:2189
+#: ../gnome-connection-manager.glade:2262
+#: ../gnome-connection-manager.glade:450
+#: ../gnome-connection-manager.glade:2396
+#: ../gnome-connection-manager.glade:589
+#: ../gnome-connection-manager.glade:2535
+msgid "Agregar"
+msgstr "Dodaj"
+
+#: ../gnome-connection-manager.glade.h:6 ../gnome-connection-manager.glade:358
+#: ../gnome-connection-manager.glade:370 ../gnome-connection-manager.glade:405
+#: ../gnome-connection-manager.glade:544
+msgid "Agregar nuevo host"
+msgstr "Dodaj nowego hosta"
+
+#: ../gnome-connection-manager.glade.h:8
+#: ../gnome-connection-manager.glade:2459
+#: ../gnome-connection-manager.glade:2664
+#: ../gnome-connection-manager.glade:2817
+#: ../gnome-connection-manager.glade:2919
+#: ../gnome-connection-manager.glade:3129
+#: ../gnome-connection-manager.glade:3248
+#: ../gnome-connection-manager.glade:3559
+#: ../gnome-connection-manager.glade:3698
+msgid "Atajos"
+msgstr "Skróty"
+
+#: ../gnome-connection-manager.glade.h:7 ../gnome-connection-manager.glade:135
+#: ../gnome-connection-manager.glade:147 ../gnome-connection-manager.glade:181
+#: ../gnome-connection-manager.glade:320
+msgid "Ay_uda"
+msgstr "_Pomoc"
+
+#: ../gnome-connection-manager.glade.h:8
+#: ../gnome-connection-manager.glade:2179
+#: ../gnome-connection-manager.glade:2088
+#: ../gnome-connection-manager.glade:2384
+#: ../gnome-connection-manager.glade:2139
+#: ../gnome-connection-manager.glade:2436
+#: ../gnome-connection-manager.glade:2241
+#: ../gnome-connection-manager.glade:2538
+#: ../gnome-connection-manager.glade:2451
+#: ../gnome-connection-manager.glade:2748
+#: ../gnome-connection-manager.glade:2551
+#: ../gnome-connection-manager.glade:2867
+#: ../gnome-connection-manager.glade:2685
+#: ../gnome-connection-manager.glade:3178
+#: ../gnome-connection-manager.glade:2824
+#: ../gnome-connection-manager.glade:3317
+msgid "Color del fondo:"
+msgstr "Kolor tła:"
+
+#: ../gnome-connection-manager.glade.h:9
+#: ../gnome-connection-manager.glade:2207
+#: ../gnome-connection-manager.glade:2116
+#: ../gnome-connection-manager.glade:2412
+#: ../gnome-connection-manager.glade:2167
+#: ../gnome-connection-manager.glade:2464
+#: ../gnome-connection-manager.glade:2269
+#: ../gnome-connection-manager.glade:2566
+#: ../gnome-connection-manager.glade:2479
+#: ../gnome-connection-manager.glade:2776
+#: ../gnome-connection-manager.glade:2579
+#: ../gnome-connection-manager.glade:2895
+#: ../gnome-connection-manager.glade:2713
+#: ../gnome-connection-manager.glade:3206
+#: ../gnome-connection-manager.glade:2852
+#: ../gnome-connection-manager.glade:3345
+msgid "Color del texto:"
+msgstr "Kolor tekstu:"
+
+#: ../gnome-connection-manager.glade.h:10
+#: ../gnome-connection-manager.glade:2304
+#: ../gnome-connection-manager.glade:2215
+#: ../gnome-connection-manager.glade:2509
+#: ../gnome-connection-manager.glade:2266
+#: ../gnome-connection-manager.glade:2662
+#: ../gnome-connection-manager.glade:2368
+#: ../gnome-connection-manager.glade:2764
+#: ../gnome-connection-manager.glade:2578
+#: ../gnome-connection-manager.glade:2974
+#: ../gnome-connection-manager.glade:2678
+#: ../gnome-connection-manager.glade:3093
+#: ../gnome-connection-manager.glade:3404
+#: ../gnome-connection-manager.glade:3543
+msgid "Colores"
+msgstr "Kolory"
+
+#: ../gnome-connection-manager.glade.h:13
+#: ../gnome-connection-manager.glade:2010
+#: ../gnome-connection-manager.glade:2056
+#: ../gnome-connection-manager.glade:2107
+#: ../gnome-connection-manager.glade:2209
+#: ../gnome-connection-manager.glade:2419
+#: ../gnome-connection-manager.glade:2519
+#: ../gnome-connection-manager.glade:2653
+#: ../gnome-connection-manager.glade:2792
+msgid "Comandos"
+msgstr "Polecenia"
+
+#: ../gnome-connection-manager.glade.h:14
+#: ../gnome-connection-manager.glade:2404
+#: ../gnome-connection-manager.glade:2609
+#: ../gnome-connection-manager.glade:2762
+#: ../gnome-connection-manager.glade:2864
+#: ../gnome-connection-manager.glade:3074
+#: ../gnome-connection-manager.glade:3193
+#: ../gnome-connection-manager.glade:3504
+#: ../gnome-connection-manager.glade:3643
+msgid "Comandos Personalizados"
+msgstr "Własne polecenia"
+
+#: ../gnome-connection-manager.glade.h:15
+#: ../gnome-connection-manager.glade:2347
+#: ../gnome-connection-manager.glade:2552
+#: ../gnome-connection-manager.glade:2705
+#: ../gnome-connection-manager.glade:2807
+#: ../gnome-connection-manager.glade:3017
+#: ../gnome-connection-manager.glade:3136
+#: ../gnome-connection-manager.glade:3447
+#: ../gnome-connection-manager.glade:3586
+msgid "Comandos Predefinidos"
+msgstr "Polecenia predefiniowane"
+
+#: ../gnome-connection-manager.glade.h:12
+#: ../gnome-connection-manager.glade:268 ../gnome-connection-manager.glade:280
+#: ../gnome-connection-manager.glade:315 ../gnome-connection-manager.glade:454
+msgid "Conectar a host seleccionado o a todos los host del grupo"
+msgstr "Połąćż z wybranym hostem lub wybraną grupą"
+
+#: ../gnome-connection-manager.glade.h:13
+#: ../gnome-connection-manager.glade:761
+#: ../gnome-connection-manager.glade:2055
+#: ../gnome-connection-manager.glade:2260
+#: ../gnome-connection-manager.glade:2311
+#: ../gnome-connection-manager.glade:2413
+#: ../gnome-connection-manager.glade:773
+#: ../gnome-connection-manager.glade:2623
+#: ../gnome-connection-manager.glade:2742
+#: ../gnome-connection-manager.glade:808
+#: ../gnome-connection-manager.glade:3053
+#: ../gnome-connection-manager.glade:947
+#: ../gnome-connection-manager.glade:3192
+msgid "Configuración"
+msgstr "Ustawienia"
+
+#: ../gnome-connection-manager.glade.h:15
+#: ../gnome-connection-manager.glade:1064
+#: ../gnome-connection-manager.glade:1166
+#: ../gnome-connection-manager.glade:1178
+#: ../gnome-connection-manager.glade:1213
+#: ../gnome-connection-manager.glade:1352
+msgid "Editar Host"
+msgstr "Edytuj hosta"
+
+#: ../gnome-connection-manager.glade.h:16
+#: ../gnome-connection-manager.glade:447 ../gnome-connection-manager.glade:459
+#: ../gnome-connection-manager.glade:494 ../gnome-connection-manager.glade:633
+msgid "Editar propiedades de host seleccionado"
+msgstr "Edytuj ustawienia hosta"
+
+#: ../gnome-connection-manager.glade.h:18
+#: ../gnome-connection-manager.glade:536 ../gnome-connection-manager.glade:548
+#: ../gnome-connection-manager.glade:583 ../gnome-connection-manager.glade:722
+msgid "Eliminar host seleccionado"
+msgstr "Usuń zaznaczonego hosta"
+
+#: ../gnome-connection-manager.glade.h:24
+#: ../gnome-connection-manager.glade:1948
+#: ../gnome-connection-manager.glade:1994
+#: ../gnome-connection-manager.glade:2045
+#: ../gnome-connection-manager.glade:2147
+#: ../gnome-connection-manager.glade:2357
+#: ../gnome-connection-manager.glade:2430
+#: ../gnome-connection-manager.glade:2564
+#: ../gnome-connection-manager.glade:2703
+msgid "Enviar comandos al iniciar sesión"
+msgstr "Wyślij polecenia po zalogowaniu"
+
+#: ../gnome-connection-manager.glade.h:25 ../gnome-connection-manager.glade:94
+msgid "Exportar lista de servidores a un archivo"
+msgstr "Eksortuj liste serwerów do pliku"
+
+#: ../gnome-connection-manager.glade.h:19
+#: ../gnome-connection-manager.glade:2147
+#: ../gnome-connection-manager.glade:2352
+#: ../gnome-connection-manager.glade:2403
+#: ../gnome-connection-manager.glade:2505
+#: ../gnome-connection-manager.glade:2715
+#: ../gnome-connection-manager.glade:2834
+#: ../gnome-connection-manager.glade:3145
+#: ../gnome-connection-manager.glade:3284
+msgid "General"
+msgstr "Główne"
+
+#: ../gnome-connection-manager.glade.h:22
+#: ../gnome-connection-manager.glade:1150
+#: ../gnome-connection-manager.glade:1252
+#: ../gnome-connection-manager.glade:1264
+#: ../gnome-connection-manager.glade:1299
+#: ../gnome-connection-manager.glade:1438
+msgid "Grupo"
+msgstr "Grupa"
+
+#: ../gnome-connection-manager.glade.h:30 ../gnome-connection-manager.glade:51
+msgid "Guardar buffer _como"
+msgstr "Zapisz buffor jako"
+
+#: ../gnome-connection-manager.glade.h:31 ../gnome-connection-manager.glade:50
+msgid "Guardar buffer de la consola activa en un archivo"
+msgstr "Zapisz buffor aktywnej konsoli do pliku"
+
+#: ../gnome-connection-manager.glade.h:24
+#: ../gnome-connection-manager.glade:1603
+#: ../gnome-connection-manager.glade:1649
+#: ../gnome-connection-manager.glade:1700
+#: ../gnome-connection-manager.glade:1802
+#: ../gnome-connection-manager.glade:2012
+#: ../gnome-connection-manager.glade:2085
+#: ../gnome-connection-manager.glade:2219
+#: ../gnome-connection-manager.glade:2358
+msgid "Host Remoto"
+msgstr "Zdalny host"
+
+#: ../gnome-connection-manager.glade.h:25
+#: ../gnome-connection-manager.glade:1178
+#: ../gnome-connection-manager.glade:1280
+#: ../gnome-connection-manager.glade:1292
+#: ../gnome-connection-manager.glade:1310
+#: ../gnome-connection-manager.glade:1345
+#: ../gnome-connection-manager.glade:1484
+msgid "Nombre"
+msgstr "Nazwa"
+
+#: ../gnome-connection-manager.glade.h:26
+#: ../gnome-connection-manager.glade:1293
+#: ../gnome-connection-manager.glade:1395
+#: ../gnome-connection-manager.glade:1408
+#: ../gnome-connection-manager.glade:1457
+#: ../gnome-connection-manager.glade:1492
+#: ../gnome-connection-manager.glade:1631
+msgid "Password"
+msgstr "Hasło"
+
+#: ../gnome-connection-manager.glade.h:27
+#: ../gnome-connection-manager.glade:1493
+#: ../gnome-connection-manager.glade:1539
+#: ../gnome-connection-manager.glade:1590
+#: ../gnome-connection-manager.glade:1692
+#: ../gnome-connection-manager.glade:1902
+#: ../gnome-connection-manager.glade:1951
+#: ../gnome-connection-manager.glade:2085
+#: ../gnome-connection-manager.glade:2224
+msgid "Propiedades"
+msgstr "Ustawienia"
+
+#: ../gnome-connection-manager.glade.h:28
+#: ../gnome-connection-manager.glade:1412
+#: ../gnome-connection-manager.glade:1413
+#: ../gnome-connection-manager.glade:1515
+#: ../gnome-connection-manager.glade:1624
+#: ../gnome-connection-manager.glade:1673
+#: ../gnome-connection-manager.glade:1708
+#: ../gnome-connection-manager.glade:1847
+msgid "Puerto"
+msgstr "Port"
+
+#: ../gnome-connection-manager.glade.h:29
+#: ../gnome-connection-manager.glade:1575
+#: ../gnome-connection-manager.glade:1621
+#: ../gnome-connection-manager.glade:1672
+#: ../gnome-connection-manager.glade:1774
+#: ../gnome-connection-manager.glade:1984
+#: ../gnome-connection-manager.glade:2057
+#: ../gnome-connection-manager.glade:2191
+#: ../gnome-connection-manager.glade:2330
+msgid "Puerto Local"
+msgstr "Port lokalny"
+
+#: ../gnome-connection-manager.glade.h:30
+#: ../gnome-connection-manager.glade:1631
+#: ../gnome-connection-manager.glade:1677
+#: ../gnome-connection-manager.glade:1728
+#: ../gnome-connection-manager.glade:1830
+#: ../gnome-connection-manager.glade:2040
+#: ../gnome-connection-manager.glade:2113
+#: ../gnome-connection-manager.glade:2247
+#: ../gnome-connection-manager.glade:2386
+msgid "Puerto Remoto"
+msgstr "Port zdalny"
+
+#: ../gnome-connection-manager.glade.h:32
+#: ../gnome-connection-manager.glade:639 ../gnome-connection-manager.glade:651
+#: ../gnome-connection-manager.glade:686 ../gnome-connection-manager.glade:825
+msgid "Separar consola horizontalmente"
+msgstr "Podziel konsole w poziomie"
+
+#: ../gnome-connection-manager.glade.h:33
+#: ../gnome-connection-manager.glade:675 ../gnome-connection-manager.glade:687
+#: ../gnome-connection-manager.glade:722 ../gnome-connection-manager.glade:861
+msgid "Separar consola verticalmente"
+msgstr "Podziel konsole w pionie"
+
+#: ../gnome-connection-manager.glade.h:34
+#: ../gnome-connection-manager.glade:1440
+#: ../gnome-connection-manager.glade:1441
+#: ../gnome-connection-manager.glade:1543
+#: ../gnome-connection-manager.glade:1652
+#: ../gnome-connection-manager.glade:1701
+#: ../gnome-connection-manager.glade:1736
+#: ../gnome-connection-manager.glade:1875
+msgid "Tipo"
+msgstr "Protokół"
+
+#: ../gnome-connection-manager.glade.h:35
+#: ../gnome-connection-manager.glade:1918
+#: ../gnome-connection-manager.glade:1964
+#: ../gnome-connection-manager.glade:2015
+#: ../gnome-connection-manager.glade:2117
+#: ../gnome-connection-manager.glade:2327
+#: ../gnome-connection-manager.glade:2400
+#: ../gnome-connection-manager.glade:2534
+#: ../gnome-connection-manager.glade:2673
+msgid "Túnel"
+msgstr "Tunel"
+
+#: ../gnome-connection-manager.glade.h:36
+#: ../gnome-connection-manager.glade:711 ../gnome-connection-manager.glade:723
+#: ../gnome-connection-manager.glade:758 ../gnome-connection-manager.glade:897
+msgid "Unir todas las consolas"
+msgstr "Rozdziel wszystkie konsole"
+
+#: ../gnome-connection-manager.glade.h:37
+#: ../gnome-connection-manager.glade:2276
+#: ../gnome-connection-manager.glade:2166
+#: ../gnome-connection-manager.glade:2481
+#: ../gnome-connection-manager.glade:2217
+#: ../gnome-connection-manager.glade:2533
+#: ../gnome-connection-manager.glade:2319
+#: ../gnome-connection-manager.glade:2635
+#: ../gnome-connection-manager.glade:2529
+#: ../gnome-connection-manager.glade:2845
+#: ../gnome-connection-manager.glade:2629
+#: ../gnome-connection-manager.glade:2964
+#: ../gnome-connection-manager.glade:2778
+#: ../gnome-connection-manager.glade:3275
+#: ../gnome-connection-manager.glade:2917
+#: ../gnome-connection-manager.glade:3414
+msgid "Usar colores por defecto"
+msgstr "Domyślne kolory"
+
+#: ../gnome-connection-manager.glade.h:38
+#: ../gnome-connection-manager.glade:1384
+#: ../gnome-connection-manager.glade:1385
+#: ../gnome-connection-manager.glade:1487
+#: ../gnome-connection-manager.glade:1596
+#: ../gnome-connection-manager.glade:1645
+#: ../gnome-connection-manager.glade:1680
+#: ../gnome-connection-manager.glade:1819
+msgid "Usuario"
+msgstr "Urzytkownik"
+
+#: ../gnome-connection-manager.glade.h:39 ../gnome-connection-manager.glade:41
+msgid "_Archivo"
+msgstr "_Plik"
+
+#: ../gnome-connection-manager.glade.h:51 ../gnome-connection-manager.glade:95
+msgid "_Exportar servidores"
+msgstr "_Eksportuj konfigurację"
+
+#: ../gnome-connection-manager.glade.h:52 ../gnome-connection-manager.glade:73
+msgid "_Importar servidores"
+msgstr "_Importuj konfigurację"
+
+#. TRANSLATORS: Replace this string with your names, one name per line.
+#: ../gnome-connection-manager.glade.h:44
+#: ../gnome-connection-manager.glade:2048
+#: ../gnome-connection-manager.glade:2253
+#: ../gnome-connection-manager.glade:2304
+#: ../gnome-connection-manager.glade:2406
+#: ../gnome-connection-manager.glade:2616
+#: ../gnome-connection-manager.glade:2735
+#: ../gnome-connection-manager.glade:3046
+#: ../gnome-connection-manager.glade:3185
+msgid "translator-credits"
+msgstr "Pawel"
+
+#: ../gnome_connection_manager.py:1418 ../gnome_connection_manager.py:1617
+#: ../gnome_connection_manager.py:1772 ../gnome_connection_manager.py:1904
+#: ../gnome_connection_manager.py:2187 ../gnome_connection_manager.py:2288
+#: ../gnome_connection_manager.py:2407 ../gnome_connection_manager.py:2577
+msgid "Comprobar actualizaciones"
+msgstr "Sprawdź aktualizacje"
+
+#: ../gnome_connection_manager.py:1781 ../gnome_connection_manager.py:1993
+#: ../gnome_connection_manager.py:2180 ../gnome_connection_manager.py:2430
+#: ../gnome_connection_manager.py:2431 ../gnome_connection_manager.py:2729
+#: ../gnome_connection_manager.py:2844 ../gnome_connection_manager.py:2980
+#: ../gnome_connection_manager.py:3154
+msgid ""
+"Hay una nueva version disponible en http://kuthulu.com/gcm/?module=download"
+msgstr "Dostępna jest nowa wersja na http://kuthulu.com/gcm/?module=download"
+
+#: ../gnome_connection_manager.py:399 ../gnome_connection_manager.py:491
+#: ../gnome_connection_manager.py:449 ../gnome_connection_manager.py:569
+#: ../gnome_connection_manager.py:483 ../gnome_connection_manager.py:637
+#: ../gnome_connection_manager.py:590 ../gnome_connection_manager.py:787
+#: ../gnome_connection_manager.py:608 ../gnome_connection_manager.py:805
+#: ../gnome_connection_manager.py:661 ../gnome_connection_manager.py:858
+#: ../gnome_connection_manager.py:692 ../gnome_connection_manager.py:895
+msgid "Renombrar consola"
+msgstr "Zmień tytuł zakładki"
+
+#: ../gnome_connection_manager.py:399 ../gnome_connection_manager.py:449
+#: ../gnome_connection_manager.py:483 ../gnome_connection_manager.py:590
+#: ../gnome_connection_manager.py:608 ../gnome_connection_manager.py:661
+#: ../gnome_connection_manager.py:692
+msgid "Ingrese nuevo nombre"
+msgstr "Wpisz nową nazwę"
+
+#: ../gnome_connection_manager.py:449 ../gnome_connection_manager.py:527
+#: ../gnome_connection_manager.py:589 ../gnome_connection_manager.py:739
+#: ../gnome_connection_manager.py:757 ../gnome_connection_manager.py:810
+#: ../gnome_connection_manager.py:847
+msgid "Copiar Direccion"
+msgstr "Kopiuj adres"
+
+#: ../gnome-connection-manager.glade:1488
+#: ../gnome-connection-manager.glade:1489
+#: ../gnome-connection-manager.glade:1591
+#: ../gnome-connection-manager.glade:1701
+#: ../gnome-connection-manager.glade:1750
+#: ../gnome-connection-manager.glade:1785
+#: ../gnome-connection-manager.glade:1924
+msgid "Keep-Alive"
+msgstr "Keep-Alive"
+
+#: ../gnome-connection-manager.glade:1511
+#: ../gnome-connection-manager.glade:1512
+#: ../gnome-connection-manager.glade:1614
+#: ../gnome-connection-manager.glade:1724
+#: ../gnome-connection-manager.glade:1773
+#: ../gnome-connection-manager.glade:1808
+#: ../gnome-connection-manager.glade:1947
+msgid "Intervalo en segundos para enviar paquetes keep-alive"
+msgstr "Liczba sekund między pakietami keep-alive"
+
+#: ../gnome_connection_manager.py:500 ../gnome_connection_manager.py:575
+#: ../gnome_connection_manager.py:549 ../gnome_connection_manager.py:643
+#: ../gnome_connection_manager.py:688 ../gnome_connection_manager.py:793
+#: ../gnome_connection_manager.py:706 ../gnome_connection_manager.py:811
+#: ../gnome_connection_manager.py:759 ../gnome_connection_manager.py:864
+#: ../gnome_connection_manager.py:796 ../gnome_connection_manager.py:901
+msgid "Reiniciar consola"
+msgstr "Zresetuj konsole"
+
+#: ../gnome_connection_manager.py:506 ../gnome_connection_manager.py:581
+#: ../gnome_connection_manager.py:555 ../gnome_connection_manager.py:649
+#: ../gnome_connection_manager.py:694 ../gnome_connection_manager.py:799
+#: ../gnome_connection_manager.py:712 ../gnome_connection_manager.py:817
+#: ../gnome_connection_manager.py:765 ../gnome_connection_manager.py:870
+#: ../gnome_connection_manager.py:802 ../gnome_connection_manager.py:907
+msgid "Reiniciar y Limpiar consola"
+msgstr "Zresetuj i wyczyść konsole"
+
+#: ../gnome_connection_manager.py:1773 ../gnome_connection_manager.py:1905
+#: ../gnome_connection_manager.py:2188 ../gnome_connection_manager.py:2289
+#: ../gnome_connection_manager.py:2408 ../gnome_connection_manager.py:2578
+msgid "Ocultar botón donar"
+msgstr "Ukryj przycisk dotacji"
+
+#: ../gnome_connection_manager.py:1982 ../gnome_connection_manager.py:2117
+#: ../gnome_connection_manager.py:2401 ../gnome_connection_manager.py:2502
+#: ../gnome_connection_manager.py:2633 ../gnome_connection_manager.py:2803
+msgid "Seleccione la fuente"
+msgstr "Wybierz czciąnkę"
+
+#: ../gnome-connection-manager.glade:1321
+#: ../gnome-connection-manager.glade:1423
+#: ../gnome-connection-manager.glade:1436
+#: ../gnome-connection-manager.glade:1485
+#: ../gnome-connection-manager.glade:1520
+#: ../gnome-connection-manager.glade:1659
+msgid "Dejar en blanco para autenticación sin password/public key"
+msgstr "Pozostaw puste przy autentykacji z użyciem klucza"
+
+#: ../gnome-connection-manager.glade:1534
+#: ../gnome-connection-manager.glade:1636
+#: ../gnome-connection-manager.glade:1746
+#: ../gnome-connection-manager.glade:1795
+#: ../gnome-connection-manager.glade:1830
+#: ../gnome-connection-manager.glade:1969
+msgid "Redirigir X11"
+msgstr "Przekierowanie X11"
+
+#: ../gnome-connection-manager.glade:2556
+#: ../gnome-connection-manager.glade:2658
+#: ../gnome-connection-manager.glade:2868
+#: ../gnome-connection-manager.glade:2987
+#: ../gnome-connection-manager.glade:3298
+#: ../gnome-connection-manager.glade:3437
+msgid "Usar fuente de ancho fijo por defecto"
+msgstr "Użyj domyślnej szerokość czcionki"
+
+#: ../gnome-connection-manager.glade:2579
+#: ../gnome-connection-manager.glade:2681
+#: ../gnome-connection-manager.glade:2891
+#: ../gnome-connection-manager.glade:3010
+#: ../gnome-connection-manager.glade:3321
+#: ../gnome-connection-manager.glade:3460
+msgid "Fuente:"
+msgstr "Czcionka:"
+
+#: ../gnome_connection_manager.py:574 ../gnome_connection_manager.py:724
+#: ../gnome_connection_manager.py:742 ../gnome_connection_manager.py:795
+#: ../gnome_connection_manager.py:832 ../gnome-connection-manager.glade:257
+msgid "Comandos personalizados"
+msgstr "Dowolne polecenia"
+
+#: ../gnome_connection_manager.py:613 ../gnome_connection_manager.py:763
+#: ../gnome_connection_manager.py:781 ../gnome_connection_manager.py:834
+#: ../gnome_connection_manager.py:871
+msgid "Duplicar Host"
+msgstr "Duplikuj"
+
+#: ../gnome_connection_manager.py:655 ../gnome_connection_manager.py:805
+#: ../gnome_connection_manager.py:823 ../gnome_connection_manager.py:876
+#: ../gnome_connection_manager.py:913
+msgid "Reconectar al host"
+msgstr "Połącz ponownie"
+
+#: ../gnome_connection_manager.py:760 ../gnome_connection_manager.py:700
+#: ../gnome_connection_manager.py:811 ../gnome_connection_manager.py:718
+#: ../gnome_connection_manager.py:829 ../gnome_connection_manager.py:771
+#: ../gnome_connection_manager.py:882 ../gnome_connection_manager.py:808
+#: ../gnome_connection_manager.py:919
+msgid "Clonar consola"
+msgstr "Klon konsole"
+
+#: ../gnome_connection_manager.py:1476 ../gnome_connection_manager.py:1657
+#: ../gnome_connection_manager.py:1706 ../gnome_connection_manager.py:1807
+#: ../gnome_connection_manager.py:1976
+msgid "No hay consolas abiertas"
+msgstr "Nie ma otwartych konsol"
+
+#: ../gnome_connection_manager.py:1901 ../gnome_connection_manager.py:2184
+#: ../gnome_connection_manager.py:2285 ../gnome_connection_manager.py:2403
+#: ../gnome_connection_manager.py:2573
+msgid "Copiar selección al portapapeles"
+msgstr "Kopiuj zaznaczenie do schowka"
+
+#: ../gnome-connection-manager.glade:926 ../gnome-connection-manager.glade:938
+#: ../gnome-connection-manager.glade:973
+#: ../gnome-connection-manager.glade:1112
+msgid "Enviar comandos a varios hosts al mismo tiempo"
+msgstr "Wyślij polecenie jednocześnie do kilku hostów"
+
+#: ../gnome-connection-manager.glade:970
+#: ../gnome-connection-manager.glade:2951
+#: ../gnome-connection-manager.glade:982
+#: ../gnome-connection-manager.glade:3161
+#: ../gnome-connection-manager.glade:3280
+#: ../gnome-connection-manager.glade:1017
+#: ../gnome-connection-manager.glade:3591
+#: ../gnome-connection-manager.glade:1156
+#: ../gnome-connection-manager.glade:3730
+msgid "Cluster"
+msgstr "Złącz"
+
+#: ../gnome-connection-manager.glade:3010
+#: ../gnome-connection-manager.glade:3220
+#: ../gnome-connection-manager.glade:3339
+#: ../gnome-connection-manager.glade:3650
+#: ../gnome-connection-manager.glade:3789
+msgid "Seleccione las consolas a utilizar:"
+msgstr "Zaznacz konsole do użycia:"
+
+#: ../gnome-connection-manager.glade:3201
+#: ../gnome-connection-manager.glade:3411
+#: ../gnome-connection-manager.glade:3530
+#: ../gnome-connection-manager.glade:3841
+#: ../gnome-connection-manager.glade:3980
+msgid "Limpiar selección"
+msgstr "Wyczyść zaznaczenie"
+
+#: ../gnome-connection-manager.glade:3280
+#: ../gnome-connection-manager.glade:3490
+#: ../gnome-connection-manager.glade:3609
+#: ../gnome-connection-manager.glade:3920
+#: ../gnome-connection-manager.glade:4059
+msgid "Invertir selección"
+msgstr "Odwróć zaznaczenie"
+
+#: ../gnome-connection-manager.glade:3341
+#: ../gnome-connection-manager.glade:3551
+#: ../gnome-connection-manager.glade:3670
+#: ../gnome-connection-manager.glade:3981
+#: ../gnome-connection-manager.glade:4120
+msgid "Ingrese el texto a enviar a las consolas: "
+msgstr "Wpisz tekst do wysłanie do hostów: "
+
+#: ../gnome_connection_manager.py:2149 ../gnome_connection_manager.py:2433
+#: ../gnome_connection_manager.py:2534 ../gnome_connection_manager.py:2665
+#: ../gnome_connection_manager.py:2836
+msgid "Activar"
+msgstr "Activate"
+
+#: ../gnome-connection-manager.glade:122
+msgid "Salir"
+msgstr "Wyjść"
+
+#: ../gnome_connection_manager.py:598 ../gnome_connection_manager.py:666
+#: ../gnome_connection_manager.py:684 ../gnome_connection_manager.py:737
+#: ../gnome_connection_manager.py:768 ../gnome-connection-manager.glade:193
+msgid "Copiar y Pegar"
+msgstr "Kopiuj i Wklej"
+
+#: ../gnome-connection-manager.glade:122
+msgid "_Salir"
+msgstr "_Wyjść"
+
+#: ../gnome-connection-manager.glade:1348
+#: ../gnome-connection-manager.glade:1292
+#: ../gnome-connection-manager.glade:1327
+#: ../gnome-connection-manager.glade:1466
+msgid "Usar formato grupo1/grupo2/grupo3 para crear subgrupos"
+msgstr "Aby utworzyć podgrupy, użyj formatu grupy1/grupy2/grupy3"
+
+#: ../gnome_connection_manager.py:706 ../gnome_connection_manager.py:817
+#: ../gnome_connection_manager.py:724 ../gnome_connection_manager.py:835
+#: ../gnome_connection_manager.py:777 ../gnome_connection_manager.py:888
+#: ../gnome_connection_manager.py:814 ../gnome_connection_manager.py:925
+msgid "Habilitar log"
+msgstr "Włącz log"
+
+#: ../gnome_connection_manager.py:861 ../gnome_connection_manager.py:879
+#: ../gnome_connection_manager.py:932 ../gnome_connection_manager.py:1026
+msgid "No se puede abrir el archivo de log para escritura"
+msgstr "Nie można otworzyć pliku log do zapisu"
+
+#: ../gnome_connection_manager.py:2182 ../gnome_connection_manager.py:2283
+#: ../gnome_connection_manager.py:2401 ../gnome_connection_manager.py:2570
+msgid "Ruta de logs"
+msgstr "Log ścieżka"
+
+#: ../gnome-connection-manager.glade:1458
+#: ../gnome-connection-manager.glade:1507
+#: ../gnome-connection-manager.glade:1542
+#: ../gnome-connection-manager.glade:1681
+msgid "Clave Privada"
+msgstr "Klucz Prywatny"
+
+#: ../gnome-connection-manager.glade:1796
+#: ../gnome-connection-manager.glade:1845
+#: ../gnome-connection-manager.glade:1880
+#: ../gnome-connection-manager.glade:2019
+msgid "Redirigir Agente"
+msgstr "Agent Forwarding"
+
+#: ../gnome-connection-manager.glade:1846
+#: ../gnome-connection-manager.glade:1895
+#: ../gnome-connection-manager.glade:2029
+#: ../gnome-connection-manager.glade:2168
+msgid "Habilitar Log"
+msgstr "Włącz Log"
+
+#: ../gnome-connection-manager.glade:1359
+#: ../gnome-connection-manager.glade:1394
+#: ../gnome-connection-manager.glade:1533
+msgid "Descripción"
+msgstr "Opis"
+
+#: ../gnome-connection-manager.glade:2034
+#: ../gnome-connection-manager.glade:2168
+#: ../gnome-connection-manager.glade:2307
+msgid "Dinámico"
+msgstr "Dynamiczny"
+
+#: ../gnome-connection-manager.glade:2035
+#: ../gnome-connection-manager.glade:2169
+#: ../gnome-connection-manager.glade:2308
+msgid "Crear redirección dinámica de puertos"
+msgstr "Utwórz dynamiczne przekierowanie portów"
+
+#: ../gnome-connection-manager.glade:2449
+#: ../gnome-connection-manager.glade:2583
+#: ../gnome-connection-manager.glade:2722
+msgid ""
+"<span size='smaller'>Usar ##D=milisegundos para introducir un delay.\n"
+"Ej: ##D=1000</span>"
+msgstr ""
+"<span size='smaller'>Użyj ##D=milisekund wprowadzić opóźnienie.\n"
+"Np: ##D=1000</span>"
+
+#: ../gnome-connection-manager.glade:3732
+#: ../gnome-connection-manager.glade:4043
+#: ../gnome-connection-manager.glade:4183
+msgid "<span size=\"smaller\">CTRL+UP/CTRL+DOWN para historial</span>"
+msgstr "<span size=\"smaller\">CTRL+UP/CTRL+DOWN dla historii</span>"
+
+#: ../gnome_connection_manager.py:2405 ../gnome_connection_manager.py:2575
+msgid "Nunca"
+msgstr "Nigdy"
+
+#: ../gnome_connection_manager.py:2405 ../gnome_connection_manager.py:2575
+msgid "Siempre"
+msgstr "Zawsze"
+
+#: ../gnome_connection_manager.py:2405 ../gnome_connection_manager.py:2575
+msgid "Sólo si no hay errores"
+msgstr "Tylko jeśli nie ma błędów"
+
+#: ../gnome-connection-manager.glade:147 ../gnome-connection-manager.glade:274
+msgid "_Ver"
+msgstr "View"
+
+#: ../gnome-connection-manager.glade:155 ../gnome-connection-manager.glade:282
+msgid "Mostrar Toolbar"
+msgstr "Pokazać Toolbar"
+
+#: ../gnome-connection-manager.glade:165 ../gnome-connection-manager.glade:292
+msgid "Mostrar Panel"
+msgstr "Pokazać Panel"
+
+#: ../gnome-connection-manager.glade:1931
+#: ../gnome-connection-manager.glade:2070
+msgid "Compresión"
+msgstr "Kompresja"
+
+#: ../gnome-connection-manager.glade:1962
+#: ../gnome-connection-manager.glade:2101
+msgid ""
+"Nivel de compresión: \n"
+"blanco: por defecto\n"
+"1: min\n"
+"9: max"
+msgstr ""
+"Poziom kompresji: \n"
+"pusty: domyślnie\n"
+"1: min\n"
+"9: max"
+
+#: ../gnome-connection-manager.glade:1979
+#: ../gnome-connection-manager.glade:2118
+msgid "Opciones extra"
+msgstr "Dodatkowe argumenty"
+
+#: ../gnome-connection-manager.glade:2015
+#: ../gnome-connection-manager.glade:2154
+msgid "Parámetros extra a pasar a la línea de comandos"
+msgstr "Dodatkowe argumenty przejść do wiersza poleceń"
+
+#: ../gnome-connection-manager.glade:2851
+#: ../gnome-connection-manager.glade:2990
+msgid "Sequencias de Teclas:"
+msgstr "Sekwencje klawiszy"
+
+#: ../gnome-connection-manager.glade:2880
+#: ../gnome-connection-manager.glade:3019
+msgid "Backspace:"
+msgstr "Backspace:"
+
+#: ../gnome-connection-manager.glade:2930
+#: ../gnome-connection-manager.glade:3069
+msgid "Delete:"
+msgstr "Delete:"
+
+#: ../gnome-connection-manager.glade:2989
+#: ../gnome-connection-manager.glade:3128
+msgid "Colores y Teclas"
+msgstr "Kolory i Klucze"
+
+#: ../gnome_connection_manager.py:780 ../gnome-connection-manager.glade:231
+msgid "Copiar todo"
+msgstr "Kopiuj wszystko"
+
+#: ../gnome_connection_manager.py:2571
+msgid "Abrir consola local al inicio"
+msgstr "Otworzyć lokalną konsolę na starcie"
+
+#: ../gnome-connection-manager.glade:147
+msgid "_Editar"
+msgstr "_Edycja"
+
+#: ../gnome-connection-manager.glade:308
+msgid "_Servidores"
+msgstr "_Serwery"
