@@ -13,5 +13,50 @@ Tabbed SSH connection manager for GTK+ environments.
 - Customizable shortcuts
 - Send custom commands to hosts
 
+## Dependencies
+Make sure you have installed the following packages (Ubuntu):
+
+- python-gtk2 (>= 2.22)
+- expect
+- python-vte
+- libglade2-0
+- python-glade2
+
+On Ubuntu you can install them with the following one-liner:
+
+```shell
+sudo apt-get install python-gtk2 expect python-vte libglade2-0 python-glade2
+```
+
+## Installing
+Once you have dependencies installed, it's as simple as placing gnome-connection-manager directory to a location of
+your choice and typing in shell:
+
+```shell
+python gnome_connection_manager.py
+```
+
+If you want to run the application from menu/launcher you can create .desktop file in your 
+/home/USERNAME/.local/share/applications directory. Assuming you placed gnome-connection-manager source in directory
+/home/USERNAME/.gnome-connection-manager/ your .desktop file could look like this:
+
+```text
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Gnome Connection Manager
+Comment=A simple ssh connection manager for gnome
+GenericName=Connection Manager
+Exec=/home/USERNAME/.gnome-connection-manager/gnome_connection_manager.py
+Terminal=false
+Type=Application
+Icon=/home/USERNAME/.gnome-connection-manager/icon.png
+Categories=GTK;GNOME;Network;
+```
+
+Replace USERNAME in examples above with your username.
+
 # Note about the author
-The original author of GCM is Renzo Bertuzzi (kuthulu@gmail.com) and all credit goes to him. I really liked the application and decided to fix some bugs and add features that I need in everyday use. If you find my fork of GCM useful and would like to see some new features added don't hesitate to contact me at: matko.jun@gmail.com
+The original author of GCM is Renzo Bertuzzi (kuthulu@gmail.com) and all credit goes to him. I really liked the 
+application and decided to fix some bugs and add features that I need in everyday use. If you find my fork of GCM 
+useful and would like to see some new features added don't hesitate to contact me at: matko.jun@gmail.com
