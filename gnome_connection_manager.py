@@ -163,6 +163,7 @@ import sys
 import base64
 import time
 import tempfile
+import shlex
 
 try:
     import gtk
@@ -1136,7 +1137,7 @@ class Wmain(SimpleGladeApp):
                         args.append("-i")
                         args.append(host.private_key)
                     if host.extra_params != None and host.extra_params != '':
-                        args += host.extra_params.split()
+                        args += shlex.split(host.extra_params)
                     args.append(host.host)
                 else:
                     if host.user=='' or host.password=='':
@@ -1146,7 +1147,7 @@ class Wmain(SimpleGladeApp):
                     else:
                         args = [SSH_COMMAND, host.type, '-l', host.user]
                     if host.extra_params != None and host.extra_params != '':
-                        args += host.extra_params.split()
+                        args += shlex.split(host.extra_params)
                     args += [host.host, host.port]
                 v.command = (cmd, args, password)
                 v.fork_command(cmd, args)
