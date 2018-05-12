@@ -36,6 +36,16 @@ your choice and typing in shell:
 python gnome_connection_manager.py
 ```
 
+The application will read your `LANG` environment variable and load appropriate translation file (if your language is 
+supported), otherwise it will fallback to english.
+
+If you want to start gnome-connection-manager with specific language start it with LANGUAGE parameter followed by language code, 
+like so:
+
+```shell
+LANGUAGE=de_DE python gnome_connection_manager.py
+```
+
 If you want to run the application from menu/launcher you can create .desktop file in your 
 /home/USERNAME/.local/share/applications directory. Assuming you placed gnome-connection-manager source in directory
 /home/USERNAME/.gnome-connection-manager/ your .desktop file could look like this:
