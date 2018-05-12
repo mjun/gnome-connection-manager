@@ -1,4 +1,7 @@
 # gnome-connection-manager
+
+![GCM screenshot](screenshot.png)
+
 Tabbed SSH connection manager for GTK+ environments.
 
 - Gnome Connection Manager is licensed under the GNU General Public License version 3
