@@ -1,3 +1,7 @@
+# !!! THIS PROJECT IS NO LONGER MAINTAINED !!!
+# Due to a very large interest in having this project supported in modern environment (py3 + gtk3) I'm currently working on complete rewrite of this application. As soon as I have a running version complete I'll update this project's README with link to new version and also update any currently opened tickets.
+
+
 # gnome-connection-manager
 
 ![GCM screenshot](screenshot.png)
