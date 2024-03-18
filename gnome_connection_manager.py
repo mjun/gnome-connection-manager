@@ -2302,7 +2302,7 @@ class Whost(SimpleGladeApp):
         host = self.txtHost.get_text().strip()
         ctype = self.cmbType.get_active_text().strip()
         user = self.txtUser.get_text().strip()
-        password = self.txtPass.get_text().strip()
+        password = self.txtPass.get_text()
         private_key = self.txtPrivateKey.get_text().strip()
         port = self.txtPort.get_text().strip()
         buf = self.txtCommands.get_buffer()
